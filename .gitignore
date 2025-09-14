@@ -1,6 +1,8 @@
 # dependencies
 node_modules
 npm-debug.log*
+backend/node_modules
+frontend/node_modules
 
 # env files
 backend/.env
